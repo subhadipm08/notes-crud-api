@@ -16,18 +16,6 @@ This API allows users to create, read, update, and delete notes.
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── db/
-│ └── db.js
-├── models/
-│ └── note.model.js
-├── app.js
-server.js
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
